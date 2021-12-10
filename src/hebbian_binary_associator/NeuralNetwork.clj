@@ -1,4 +1,4 @@
-3
+
 (ns hebbian-binary-associator.NeuralNetwork)
 
 (defrecord Neuron [id incomingConnections threshold activated])
